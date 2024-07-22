@@ -1,14 +1,14 @@
 # Frontend Mentor - Solução card NFT 
 
 ## Conteúdos do readme
-- [Visão geral](def)
+- [Visão geral](#Visão-geral)
   - [O desafio](def2)
   - [Imagens de como deve ficar](def3)
 - [Meu processo de criação](def4)
   - [Feito com](def5)
   - [O que aprendi](def6)
 - [Resolução do exercício](def7)
-- [Autor](def8)
+- [Autor](#autor)
 
 ## Visão geral
 
