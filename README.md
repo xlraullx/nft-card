@@ -2,12 +2,12 @@
 
 ## Conteúdos do readme
 - [Visão geral](#Visão-geral)
-  - [O desafio](def2)
-  - [Imagens de como deve ficar](def3)
-- [Meu processo de criação](def4)
-  - [Feito com](def5)
-  - [O que aprendi](def6)
-- [Resolução do exercício](def7)
+  - [O desafio](#o-desafio)
+  - [Imagens de como deve ficar](#imagens-de-como-deve-ficar)
+- [Meu processo de criação](#meu-processo-de-criação)
+  - [Feito com](#feito-com)
+  - [O que aprendi](#o-que-aprendi)
+- [Resolução do exercício](#resolução-do-exercício)
 - [Autor](#autor)
 
 ## Visão geral
